@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Maria Leilane 👋
 
-- 🔭 Hoje trabalho como analista de Soluções Digitais e estou em trasição de carreira 
+- 🔭 Hoje trabalho como analista de Soluções Digitais e estou em transição de carreira 
 - 🌱 Estudo a formação Full Stack Developer no Dev Club
 
 
