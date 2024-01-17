@@ -1,7 +1,8 @@
 ### Olá!  👋
 
 - 👧 Eu sou a Maria Leilane, desenvolvedora Front End. 
-- 💻 Atualmente estou aprendendo e criando projetos com HTML, CSS, C# e iniciando o aprendizado em JavaScript e React.  
+- 💻 Atualmente estou aprendendo e criando projetos com HTML, CSS, C# e iniciando o aprendizado em JavaScript e React.
+- 💻 No meu trabalho diário, faço uso das seguintes linguagens: R, SQL e PostgreSQL.
 
 ##
 ### Tecnologias
