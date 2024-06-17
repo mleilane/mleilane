@@ -1,27 +1,28 @@
-### Olá!  👋
 
-- 👧 Eu sou a Maria Leilane, desenvolvedora Front End. 
-- 💻 Atualmente estou aprendendo e criando projetos com HTML, CSS, C# e iniciando o aprendizado em JavaScript e React.
-- 💻 No meu trabalho diário, faço uso das seguintes linguagens: R, SQL e PostgreSQL.
 
-##
-### Tecnologias
-  
- <div style="display: inline_block"><br>
+### <👋 Olá! Eu sou a Maria Leilane />
+<h4>  Desenvolvedora FullStack em transição de carreira</h4> 
+
+#
+###
+
+<p> 🟣 Sobre Mim: </p>
+Atualmente, estou cursando a Formação FullStack Developer no Dev Club, onde aplico meus conhecimentos em projetos práticos. Nas horas vagas, gosto de ler um bom livro. Além disso, estou focada em aprimorar minhas habilidades em desenvolvimento fullstack, incluindo:
+
+<div style="display: inline_block"><br>
   <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Maria-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="leilane-Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Maria-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Maria-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+  <img align="center" alt="leilane-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Maria-SQLserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  
 </div>
 <br>
 
-##
-### Banco de dados 
-<div style="display: inline_block"><br>   
-  <img align="center" alt="leilane-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="Maria-SQLserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-</div>
+Minha jornada é movida pela busca constante de conhecimento e crescimento na área que me apaixonei.
 
 ##
 ### Conecte-se comigo:
