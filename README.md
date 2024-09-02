@@ -26,6 +26,19 @@
 🤝 Sempre aqui para ajudar! Confira dicas para iniciantes no meu insta @codinggirl__
 <br>
 
+## 
+
+### 🎯 Metas Futuras
+<br> 
+
+* 📚 **Fazer faculdade de ADS:** Ampliar meu conhecimento e habilidades em tecnologia para impulsionar minha carreira.
+
+* 🧠 **Especializar-me em SEO e acessibilidade:** Aprender como otimizar sites para todos os públicos, garantindo que sejam totalmente adaptados e inclusivos para pessoas com deficiências.
+
+* 👩🏽‍💻 **Divulgar meu conhecimento e experiências:** Orientar e inspirar a comunidade de tecnologia com dicas práticas e insights valiosos.
+
+<br> 
+
 ##
 
 <div style="display: inline_block" >
