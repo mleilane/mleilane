@@ -1,40 +1,92 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9713CF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9713CF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Maria+Leilane!;Sou+Desenvolvedora+Full+Stack+👩🏽‍💻;Seja+bem-vindo(a)+ao+meu+GitHub!+)](https://git.io/typing-svg)
 
 
-### <👋 Olá! Eu sou a Maria Leilane />
-<h4>  Desenvolvedora FullStack em transição de carreira</h4> 
-
-#
-###
-
-<p> 🟣 Sobre Mim: </p>
-Atualmente, estou cursando a Formação FullStack Developer no Dev Club, onde aplico meus conhecimentos em projetos práticos. Nas horas vagas, gosto de ler um bom livro. Além disso, estou focada em aprimorar minhas habilidades em desenvolvimento fullstack, incluindo:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Maria-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="leilane-Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Maria-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Maria-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
-  <img align="center" alt="leilane-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="Maria-SQLserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  
-</div>
+<p  align="center">Sou uma desenvolvedora apaixonada por programação web, com um entusiasmo especial por criar soluções inovadoras e eficientes. Meu objetivo é transformar ideias em realidade através do código, sempre buscando aprimorar minhas habilidades e contribuir para projetos que impactem positivamente a experiência digital.</p>
 <br>
 
-Minha jornada é movida pela busca constante de conhecimento e crescimento na área que me apaixonei.
+## 
+
+### 🔍 Descubra Mais Sobre Mim:  
+<br> 
+
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/6d/e1/0f/6de10fff994dd378635dafbbaaee9b07.gif" width="360px"/> <!-- GIF de uma menina programando -->
+
+
+🎓 Cursando Desenvolvimento Web. 
+
+🎯 Objetivo: Tornar-me uma desenvolvedora Web Full Stack.
+
+🎨 No meu tempo livre, adoro explorar novas tecnologias e projetos criativos.
+
+💬 Pergunte-me sobre livros inspiradores, ou até mesmo aquele bug teimoso!
+
+🤝 Sempre aqui para ajudar! Confira dicas para iniciantes no meu insta @codinggirl__
+<br>
 
 ##
-### Conecte-se comigo:
-   
-<div> 
+
+<div style="display: inline_block" >
+  <br>
+  
+  ###  Principais Habilidades: <br>
+  <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Maria-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Maria-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Maria-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+  <img align="center" alt="leilane-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Maria-SQLserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+
+<br><br>
+
+###  Ferramentas:<br>
+
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+  
+<br><br>
+
+ ###  Estudando:<br>
+ 
+   <img align="center" alt="leilane-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="leilane-React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+
+<br><br>
+
+ ###  Próximos passos:<br>
+ 
+  <img align="center" alt="leilane-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="leilane-TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+
+</div>
+ <br>
+
+## 
+<br> 
+<div align="center"> 
+  
+  ### 📱 Vamos nos Conectar?
+  <br> 
    <a href="https://www.linkedin.com/in/maria-leilane" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:leilane94silva@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/codinggirl__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   </div>
+<br>
+
+##
+
 
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mleilane&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt=" Vitor Hugo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mleilane&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mleilane&show_icons=true&count_private=true&hide_border=true&title_color=9713CF&icon_color=9713CF&text_color=9713CF&bg_color=0d1117" alt=" Vitor Hugo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mleilane&layout=compact&hide_border=true&title_color=9713CF&text_color=9713CF&bg_color=0d1117" />
 </div>
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9713CF&height=120&section=footer"/>
