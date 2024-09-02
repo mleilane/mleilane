@@ -12,7 +12,7 @@
 <br> 
 
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/6d/e1/0f/6de10fff994dd378635dafbbaaee9b07.gif" width="360px"/> <!-- GIF de uma menina programando -->
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/6d/e1/0f/6de10fff994dd378635dafbbaaee9b07.gif" width="350px"/> <!-- GIF de uma menina programando -->
 
 
 🎓 Cursando Desenvolvimento Web. 
