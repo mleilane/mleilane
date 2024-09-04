@@ -12,7 +12,7 @@
 <br> 
 
 
-<img align="right" alt="img" src="https://github.com/mleilane/mleilane/blob/main/imagem.png?raw=true" width="280px" height="auto"/> <!-- GIF de uma menina programando -->
+<img align="right" alt="img" src="https://github.com/mleilane/mleilane/blob/main/imagem.png?raw=true" width="250px" height="auto"/> <!-- GIF de uma menina programando -->
 
 
 🎓 Cursando Desenvolvimento Web. 
