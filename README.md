@@ -15,7 +15,7 @@
 <img align="right" alt="img" src="https://github.com/mleilane/mleilane/blob/main/imagem.png?raw=true" width="250px" height="auto"/> <!-- GIF de uma menina programando -->
 
 
-🎓 Cursando Desenvolvimento Web. 
+🎓 Cursando Análise e Desenvolvimento de Sistemas. 
 
 🎯 Objetivo: Tornar-me uma desenvolvedora Web Full Stack.
 
@@ -30,8 +30,6 @@
 
 ### 🎯 Metas Futuras
 <br> 
-
-* 📚 **Fazer faculdade de ADS:** Ampliar meu conhecimento e habilidades em tecnologia para impulsionar minha carreira.
 
 * 🧠 **Especializar-me em SEO e acessibilidade:** Aprender como otimizar sites para todos os públicos, garantindo que sejam totalmente adaptados e inclusivos para pessoas com deficiências.
 
