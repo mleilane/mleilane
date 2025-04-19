@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9713CF&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+;Seja+bem-vindo(a)+ao+meu+GitHub!+)](https://git.io/typing-svg)
 
-_Crio soluções que conectam o código ao propósito_ <br>
-<p> Minha jornada como desenvolvedora Full Stack é movida pela curiosidade de entender como a tecnologia pode, de fato, impactar a experiência das pessoas. Não se trata apenas de programar, mas de criar algo significativo que resolva problemas de forma criativa e eficiente.
+<p>Crio soluções que conectam o código ao propósito. Minha jornada como desenvolvedora Full Stack é movida pela curiosidade de entender como a tecnologia pode, de fato, impactar a experiência das pessoas. Não se trata apenas de programar, mas de criar algo significativo que resolva problemas de forma criativa e eficiente.
 
 Cada linha de código carrega a intenção de fazer a diferença, de aprimorar e agregar valor. É assim que vejo a programação: como uma ferramenta para transformar ideias em algo real e relevante..</p>
 <br>
